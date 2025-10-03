@@ -3,6 +3,9 @@ package br.com.kaiomuniz.entities;
 import java.time.LocalDate;
 import java.util.UUID;
 
+import lombok.Data;
+
+@Data
 public class Tarefa {
 	
 	private UUID id;
