@@ -1,4 +1,4 @@
-package factories;
+package br.com.kaiomuniz.factories;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
